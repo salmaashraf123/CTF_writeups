@@ -1,11 +1,12 @@
 # Image Flag - Forensics challenge
 
-  platform: ctflearn 
+  platform: ctflearn
+
   category: Forensics   30points
 
 ## Challenge Description: 
-A '.jpg' image file was provided , and the goal was to extract the hidden flag.
-No additional hints were given.
+    A '.jpg' image file was provided , and the goal was to extract the hidden flag.
+    No additional hints were given.
 ----
 
 ## Analysis Steps:
